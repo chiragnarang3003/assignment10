@@ -1,0 +1,5 @@
+Hello
+Good Evening
+My name is Chirag
+This is assignment 10
+File Handling.
