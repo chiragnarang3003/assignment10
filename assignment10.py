@@ -20,8 +20,6 @@ for i in words:
 print(dict)
 print()
 
-
-
 '''
 #Question3:->Write a Python program to copy the contents of a file to another file.
 '''
@@ -57,6 +55,6 @@ temp.write(str(sor))
 temp.seek(0)
 output=temp.read()
 print(output)
-
+print()
 
 
